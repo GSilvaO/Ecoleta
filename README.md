@@ -1,9 +1,9 @@
-<h1> ECOLETA <h1>
+<h1> ECOLETA </h1>
 
 O Ecoleta é uma aplicação feita com o objetivo de ajudar pessoas que precisam ter resíduos como baterias e pilhas, orgânicos, lâmpadas, etc,
 jogados no lixo destinado a estes resíduos; a encontrar lugares que colhem estes resíduos.
 
-<h2> Tecnologias Utilizadas <h2>
+<h2> Tecnologias Utilizadas </h2>
 Esta aplicação se utilizou de três tecnologias: <strong>NodeJS</strong>, <strong>ReactJS</strong> e <strong>ReactNative</strong>.
 Foi escolhido <strong>TypeScript</strong> ao invés de JavaScript Vanilla pela resiliencia e tipagem que o TS adiciona ao código,
 o que torna o desenvolvimento um pouco mais penoso no começo, porém trás muitos benefícios em fases futuras da aplicação, como a 
