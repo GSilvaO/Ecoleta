@@ -7,7 +7,7 @@ jogados no lixo destinado a estes resíduos; a encontrar lugares que colhem este
 Esta aplicação se utilizou de três tecnologias: <strong>NodeJS</strong>, <strong>ReactJS</strong> e <strong>ReactNative</strong>.
 Foi escolhido <strong>TypeScript</strong> ao invés de JavaScript Vanilla pela resiliencia e tipagem que o TS adiciona ao código,
 o que torna o desenvolvimento um pouco mais penoso no começo, porém trás muitos benefícios em fases futuras da aplicação, como a 
-manutenção e adição de novas funcionalidades.
+manutenção e adição de novas funcionalidades. <br>
 
 Para o backend da aplicação foi utilizado o NodeJS. Como banco de dados, foi usado o SQLite e, para a manipulação de queries e criação
 de tabelas, foi utilzado o knex.
